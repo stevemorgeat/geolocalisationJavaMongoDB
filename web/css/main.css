@@ -1,0 +1,15 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 oct. 2017, 16:17:14
+    Author     : allth
+*/
+.monHeader{
+    padding: 1em;
+}
+
+#divMap{width: 700px; height: 500px; border: 1px solid black;}
+
